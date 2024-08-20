@@ -7,4 +7,4 @@
   estou me desenvolvendo no javascript
 
 
-(https://media1.tenor.com/m/LY1SSPItsl8AAAAC/pedro-pedro-flam
+(https://media1.tenor.com/m/LY1SSPItsl8AAAAC/pedro-pedro-flam)
