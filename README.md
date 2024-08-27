@@ -2,7 +2,7 @@
 
  Meu nome é ## Alison 
  
- estudo na alura
+ Etudo na alura.
 
   estou me desenvolvendo no javascript
 
